@@ -1,6 +1,6 @@
-import React from "react";
-import Input from "../redux/components/Input";
-import TodoList from "../redux/components/TodoList";
+import React from 'react';
+import Input from '../redux/components/Input';
+import TodoList from '../redux/components/TodoList';
 
 function Main() {
   return (
